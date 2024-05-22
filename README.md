@@ -1,9 +1,11 @@
-# Java Básico - Desafios de Projetos 👩‍💻
+# Java Básico - Desafios de Projeto 👩‍💻
 
-    Desafio proposto na trilha de desenvolvimento: Back-end com Java do Bootcamp Santander 2024 pela DIO.
+    Desafios propostos na trilha de desenvolvimento: Back-end com Java do Bootcamp Santander 2024 pela DIO
 
-Esse repositório contém:
- - Projeto Base: Simulando Uma Conta Bancária Através Do Terminal/Console
- - Projeto Base: Criando Um Pequeno Sistema Para Validação de Processo Seletivo
+Este repositório apresenta:
 
-   
+‣ Projeto Base: Simulando Uma Conta Bancária Através Do Terminal/Console
+
+‣ Projeto Base: Criando Um Pequeno Sistema Para Validação de Processo Seletivo
+
+
