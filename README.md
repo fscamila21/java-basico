@@ -1,3 +1,9 @@
-# Java Básico 👩‍💻☕
+# Java Básico - Desafios de Projetos 👩‍💻
 
-Repositório criado para armazenamento dos projetos desenvolvidos durante minha trajetória de aprendizagem da linguagem de programação Java através do Bootcamp Santander 2024 em parceria com a DIO.
+    Desafio proposto na trilha de desenvolvimento: Back-end com Java do Bootcamp Santander 2024 pela DIO.
+
+Esse repositório contém:
+ - Projeto Base: Simulando Uma Conta Bancária Através Do Terminal/Console
+ - Projeto Base: Criando Um Pequeno Sistema Para Validação de Processo Seletivo
+
+   
